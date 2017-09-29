@@ -29,8 +29,6 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.4)
-    yahoo_weatherman (2.0.0)
-      nokogiri
 
 PLATFORMS
   ruby
@@ -39,7 +37,6 @@ DEPENDENCIES
   nokogiri (~> 1.8, >= 1.8.1)
   rest-client (~> 2.0, >= 2.0.2)
   sinatra (~> 2.0)
-  yahoo_weatherman (~> 2.0)
 
 BUNDLED WITH
    1.12.5
